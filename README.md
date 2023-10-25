@@ -5,7 +5,6 @@
 
 ## Packages in listing
 
-![GitHub release (with filter)](https://img.shields.io/github/v/release/uslashdeleted/vcc-Toolbox)
 [Toolbox](https://github.com/uslashdeleted/vcc-Toolbox)
 
 #
