@@ -1,13 +1,13 @@
 {
     "name":"Example Listing",
     "id":"com.vrchat.example-listing",
-    "url":"https://uslashdeleted.github.io/uslashdeleted-listing/index.json",
+    "url":"https://uslashdeleted.github.io/vcc-listing/index.json",
     "author":{
         "name":"`uslashdeleted"
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"https://uslashdeleted.github.io/uslashdeleted-listing",
+        "url":"https://uslashdeleted.github.io/vcc-listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
