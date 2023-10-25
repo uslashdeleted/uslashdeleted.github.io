@@ -1,7 +1,6 @@
 {
     "name":"Example Listing",
     "id":"com.vrchat.example-listing",
-    "url":"https://uslashdeleted.github.io/vcc-listing/index.json",
     "author":{
         "name":"`uslashdeleted"
     },
@@ -12,7 +11,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "https://github.com/uslashdeleted/Toolbox"
+        "uslashdeleted/vcc-Toolbox"
     ],
     "packages":[
         {
