@@ -2,7 +2,7 @@
     "name":"Toolbox",
     "id":"com.uslashdeleted.listing",
     "author":{
-        "name":"`uslashdeleted"
+        "name":"uslashdeleted"
     },
     "description":"Tools to create and modify Animator Controllers and VRChat Expression Menus",
     "infoLink":{
@@ -10,6 +10,7 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
+    "url":"https://uslashdeleted.github.io/vcc-listing/index.json",
     "githubRepos":[
         "uslashdeleted/vcc-Toolbox"
     ],
