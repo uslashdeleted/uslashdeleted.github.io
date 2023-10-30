@@ -14,12 +14,5 @@
     "githubRepos":[
         "uslashdeleted/vcc-Toolbox"
     ],
-    "packages":[
-        {
-            "name":"io.github.uslashdeleted.toolbox",
-            "releases":[
-                "https://github.com/uslashdeleted/vcc-Toolbox/releases/download/0.2.3/io.github.uslashdeleted.toolbox-0.2.3.zip"
-            ]
-        }
-    ]
+
 }
