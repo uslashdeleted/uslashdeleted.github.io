@@ -1,6 +1,6 @@
 {
     "name":"Toolbox",
-    "id":"com.uslashdeleted.listing",
+    "id":"io.github.uslashdeleted",
     "author":{
         "name":"uslashdeleted"
     },
@@ -16,10 +16,9 @@
     ],
     "packages":[
         {
-            "name":"com.uslashdeleted.toolbox",
+            "name":"io.github.uslashdeleted.toolbox",
             "releases":[
-                "https://github.com/uslashdeleted/vcc-Toolbox/releases/download/0.2.1/com.uslashdeleted.toolbox-0.2.1.zip",
-                "https://github.com/uslashdeleted/vcc-Toolbox/releases/download/0.2.2/com.uslashdeleted.toolbox-0.2.2.zip"
+                "https://github.com/uslashdeleted/vcc-Toolbox/releases/download/0.2.3/io.github.uslashdeleted.toolbox-0.2.3.zip"
             ]
         }
     ]
